@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LockerSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39524961807783bade7e8cf4af7aa6cd0958a1d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LockerSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LockerSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

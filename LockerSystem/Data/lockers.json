@@ -1,0 +1,155 @@
+{
+  "Lockers": [
+    {
+      "Number": 1,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 2,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 3,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 4,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 5,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 6,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 7,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 8,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 9,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 10,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 11,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 12,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 13,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 14,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 15,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 16,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 17,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 18,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 19,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 20,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 21,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 22,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 23,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 24,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 25,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 26,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 27,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 28,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 29,
+      "IsOccupied": false,
+      "Password": null
+    },
+    {
+      "Number": 30,
+      "IsOccupied": false,
+      "Password": null
+    }
+  ]
+
+}
